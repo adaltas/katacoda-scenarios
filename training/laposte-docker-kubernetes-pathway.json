@@ -1,0 +1,13 @@
+{
+  "title": "Docker and Kubernetes training at La Poste",
+  "description": "",
+  "courses": [
+    {
+      "pathway_id": "adaltas/kubernetes",
+      "id": "kubernetes-cluster-running",
+      "course_id": "kubernetes-cluster-running",
+      "title": "Kubernetes Cluster Running",
+      "description": "Multi node Kubernetes cluster configured using Kubeadm"
+    }
+  ]
+}
