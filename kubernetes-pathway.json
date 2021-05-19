@@ -1,0 +1,16 @@
+{
+  "title": "Kubernetes Fundamentals",
+  "description": "Learn how to run scale and manage containers with Kubernetes",
+  "courses": [
+    {
+      "course_id": "kubernetes-cluster",
+      "title": "Kubernetes Cluster",
+      "description": "Multi node Kubernetes cluster configured using Kubeadm"
+    },
+    {
+      "course_id": "kubernetes-cluster-running",
+      "title": "Kubernetes Cluster Running",
+      "description": "Multi node Kubernetes cluster configured using Kubeadm"
+    }
+  ]
+}
