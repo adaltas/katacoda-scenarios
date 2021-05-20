@@ -1,0 +1,13 @@
+{
+  "title": "Docker Fundamentals training at La Poste: Day 1",
+  "description": "",
+  "courses": [
+    {
+      "pathway_id": "adaltas/docker",
+      "id": "docker-basics",
+      "course_id": "docker-basics",
+      "title": "Docker: Basics",
+      "description": "Learn how to launch containers using Docker"
+    }
+  ]
+}
