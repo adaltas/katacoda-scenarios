@@ -1,0 +1,25 @@
+{
+  "title": "Docker: Basics",
+  "description": "Learn how to launch containers using Docker",
+  "details": {
+    "intro": {
+        "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}

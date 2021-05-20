@@ -1,0 +1,11 @@
+{
+  "title": "Docker Fundamentals",
+  "description": "Learn to build and deploy your distributed applications easily to the cloud with Docker",
+  "courses": [
+    {
+      "course_id": "docker-basics",
+      "title": "Docker: Basics",
+      "description": "Learn how to launch containers using Docker"
+    }
+  ]
+}
