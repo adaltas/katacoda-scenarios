@@ -1,22 +1,21 @@
 {
-  "title": "Docker: Base commands",
-  "description": "Learn the base Docker commands to run and manage containers",
+  "title": "Docker: Manage images",
+  "description": "Learn how to manage and create images from changed containers",
   "details": {
     "intro": {
         "text": "intro.md"
     },
     "steps": [
       {
-        "title": "Explore Docker CLI",
-        "text": "step1.md",
-        "answer": "step1-answer.md"
+        "title": "Manage images",
+        "text": "step1.md"
       },
       {
-        "title": "Run and manage containers",
+        "title": "Display image information",
         "text": "step2.md"
       },
       {
-        "title": "Run a command inside a container",
+        "title": "Create an image from a changed container",
         "text": "step3.md"
       }
     ],

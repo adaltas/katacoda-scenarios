@@ -4,8 +4,18 @@
   "courses": [
     {
       "course_id": "docker-basics",
-      "title": "Docker: Basics",
-      "description": "Learn how to launch containers using Docker"
+      "title": "Docker: Base commands",
+      "description": "Learn the base Docker commands to run and manage containers"
+    },
+    {
+      "course_id": "docker-images",
+      "title": "Docker: Manage images",
+      "description": "Learn how to manage and create images from changed containers"
+    },
+    {
+      "course_id": "docker-dockerfile",
+      "title": "Docker: Build images with Dockerfile",
+      "description": "Learn how to build Docker images using Dockerfiles"
     }
   ]
 }

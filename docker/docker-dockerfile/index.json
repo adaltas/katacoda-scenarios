@@ -1,0 +1,41 @@
+{
+  "title": "Docker: Build images with Dockerfile",
+  "description": "Learn how to build Docker images using Dockerfiles",
+  "details": {
+    "intro": {
+        "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Write Dockerfile",
+        "text": "step1.md"
+      },
+      {
+        "title": "Build an image",
+        "text": "step2.md"
+      },
+      {
+        "title": "Run a container",
+        "text": "step3.md"
+      },
+      {
+        "title": "Build a web application image",
+        "text": "step4.md"
+      },
+      {
+        "title": "Build and run it again",
+        "text": "step5.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/root/project"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}

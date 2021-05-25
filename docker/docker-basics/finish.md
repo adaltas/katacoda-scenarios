@@ -1,12 +1,6 @@
-Start using the Multi-node Kubernetes environment for your content by setting the `imageid` to `kubernetes-cluster:1.18`.
 
-For example:
+## You have learned
 
-<pre class="file">
-"environment": {
-  "uilayout": "terminal"
-},
-"backend": {
-  "imageid": "kubernetes-cluster:1.18"
-}
-</pre>
+1. The basic Docker CLI commands 
+2. How to manage containers
+3. How to run commands inside a container
