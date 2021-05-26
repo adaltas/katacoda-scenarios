@@ -1,4 +1,6 @@
 
+## Step 1 - Manage images
+
 1. Search the `debian` image 
 
   - Search it on [Docker Hub](https://hub.docker.com) and explore the information

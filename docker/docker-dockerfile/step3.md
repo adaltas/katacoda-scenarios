@@ -1,4 +1,6 @@
 
+## Step 3 - Run a container
+
 1. Now we have an image created from `Dockerfile`, we'll run it:
 
   `docker run -d -p 8080:80 --name www webserver`

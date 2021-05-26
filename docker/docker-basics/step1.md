@@ -1,3 +1,4 @@
+## Step 1: Explore Docker CLI
 
 1. List available commands, either run `docker` with no parameters or execute `docker help`.
 

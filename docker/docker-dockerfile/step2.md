@@ -1,4 +1,6 @@
 
+## Step 2 - Build an image
+
 1. We can build a Docker image by executing `docker build -t webserver .`
 
   The docker build command builds an image from the `Dockerfile` and a context. The `PATH` is a directory on your local filesystem (currently is `.`).

@@ -1,4 +1,6 @@
 
+## Step 4 - Build a web application image
+
 1. Create a home page of a web application. We need to create the `index.html` file in the `./html` directory with the following content:
 
   ```

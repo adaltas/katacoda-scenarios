@@ -1,4 +1,6 @@
 
+## Step 3 - Create an image from a changed container
+
 1. Run a `debian` container with `docker run -it debian`
 
   After pulling image, it will start a container and open Bash into the running container.

@@ -1,4 +1,6 @@
 
+## Step 5 - Build and run it again
+
 1. Rebuild the image:
 
   `docker build -t webserver .`

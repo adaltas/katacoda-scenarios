@@ -1,4 +1,6 @@
 
+## Step 3 - Run a command inside a container
+
 1. Run the Alpine Linux container using `docker run alpine` 
 
   `alpine` is a minimal Docker image based on Alpine Linux with only 5 MB in size!
@@ -17,6 +19,6 @@
 
 4. Run a Redis container with `docker run -d redis` and execute a command inside it using `docker exec -it <CONTAINER> bash`
 
-  - What is the difference between `docker run -it <CONTAINER> <COMMAND>` and `docker exec -it <CONTAINER> <COMMAND>`?
+  - What is the difference between `docker run -it <IMAGE> <COMMAND>` and `docker exec -it <CONTAINER> <COMMAND>`?
   - Explore the Linux filesystem inside the running containers with commands such as `pwd`, `ls`, `cd`.
   - Try to communicate with Redis: run Redis client with `redis-cli` and print `PING`. It should answer with the `PONG` message indicating that the Redis server is running.

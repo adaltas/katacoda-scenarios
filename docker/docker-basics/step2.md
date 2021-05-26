@@ -1,4 +1,6 @@
 
+## Step 2 - Run and manage containers
+
 1. Run the Redis database container using `docker run -d redis`
 
   What does the `-d` option? Try to run the same container without this option (press `Ctrl + C` to terminate the blocking process).

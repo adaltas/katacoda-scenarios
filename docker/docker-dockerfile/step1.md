@@ -1,4 +1,6 @@
 
+## Step 1 - Write Dockerfile
+
 1. Create `Dockerfile` with following content in current directory.
 
   ```
